@@ -12,7 +12,7 @@ header{
 /*-------------- Main --------------*/
 
 .Formulario{
-    padding: 200px 200px;
+    padding: 100px 100px;
     background-color: whitesmoke;
     margin: 50px 500px;
 }
@@ -54,7 +54,7 @@ header{
 }
 
 .Fotos{
-    padding: 200px 200px;
+    padding: 100px 100px;
     margin: 50px 500px;
     background-color: whitesmoke;
 }
